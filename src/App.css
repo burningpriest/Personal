@@ -2,6 +2,7 @@
   text-align: center;
 }
 
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -26,6 +27,19 @@
 
 .App-link {
   color: #61dafb;
+}
+.active{
+  color: red;
+}
+.column{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content:  space-around;
+  align-content: center;
+  background-color: grey;
+  padding: 10px;
+  text-decoration: none;
 }
 
 @keyframes App-logo-spin {

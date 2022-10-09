@@ -1,0 +1,17 @@
+.mainCard{
+    background-color: #D9DFE9;
+    margin: 10px;
+    border-radius: 3px;
+    width: 300px;
+
+}
+input{
+    background: transparent;
+    border: 0px;
+    border-bottom: 2px solid cyan;
+}
+button{
+    background: transparent;
+    border: none;
+    font-size: 22px;
+}
